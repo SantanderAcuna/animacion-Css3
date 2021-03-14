@@ -11,8 +11,14 @@
 ## Mi primer repositorio que tiene animacion en css3
 
 ### Animacion en css3
+
+| Aprendiendo git hub | Description |
+| --- | --- |
+| - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  | Colocando imagenes y colores en github |
+| - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  | manejo de comandos en git |
+
+
 (https://github.com/SantanderAcuna/animacion-Css3/blob/main/img/proyect.jpeg)
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+
