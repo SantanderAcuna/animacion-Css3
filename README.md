@@ -7,9 +7,8 @@
 </svg>
   </p>
 
-## Mi primer repositorio que tiene animacion en css3
+## Mi primer repositorio con animacion en css3
 
-### Animacion en css3
 
 | Aprendiendo git hub                                        | Description                                                                 |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
