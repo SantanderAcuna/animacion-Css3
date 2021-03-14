@@ -9,7 +9,7 @@
 
 ## Mi primer repositorio con animacion en css3
 
-<span style="color:orange;">Word up</span>
+
 | Aprendiendo git hub                                        | Description                                                                 |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
 | - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | Colocando imagenes y colores en github                                      |
